@@ -4,3 +4,6 @@ You will find the layout (psd) of city halls of Albania map from the administrat
 
 ## Questions
 If you have any questions please use the Issues tab or submit a pull request. 
+
+## Contributors
+[@ilirhushi](http://ilirhushi.me) & [@edyrkaj](http://www.e-soft.al/Main.aspx)
